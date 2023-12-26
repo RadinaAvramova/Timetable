@@ -2,9 +2,6 @@
 A simple web application for keeping track of your school or university schedule
 
 
-
-
-
 ## Installation and setup
 - Clone this repository or download the files
 
@@ -16,7 +13,3 @@ A simple web application for keeping track of your school or university schedule
  
 - Optionally, create a shortcut to your home screen or desktop for faster access
 
-
-
-## License
-This project is licensed under [GNU GPL v3.0](LICENSE).
